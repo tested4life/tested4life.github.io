@@ -43,7 +43,7 @@ function partition(items, predicate) {
 module.exports = {
 	title: 'YAGPDB Custom Commands',
 	tagline: 'An up-to-date collection of CCs for your server',
-	url: 'https://yagpdb-cc.github.io',
+	url: 'https://tested4life.github.io',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'throw',
